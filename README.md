@@ -5,4 +5,3 @@ The code sets up an ESP32 device to manage WiFi connections via a web interface.
 #Not need to change wifi to code direct change to the web page.
 
 Thankyou.
-
